@@ -1,9 +1,5 @@
-a = ['Azul' , 'Amarillo' , 'Naranja' , 'Hola']
-print (a)
-['Azul', 'Amarillo', 'Naranja', 'Hola']
-print (a[3])
-Hola
-print (a[2])
-Naranja
-print (a[0])
-Azul
+b = ['amarillo','rojo','azul',['bicicleta','pelota','carro']]
+b[3]
+['bicicleta', 'pelota', 'carro']
+b[3][2]
+'carro'
