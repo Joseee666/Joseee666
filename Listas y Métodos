@@ -1,0 +1,6 @@
+j = ['escuela', 'colegio', 'universidad', 'trabajo']
+print (j)
+['escuela', 'colegio', 'universidad', 'trabajo']
+j.append ('hospital')
+print (j)
+['escuela', 'colegio', 'universidad', 'trabajo', 'hospital']
