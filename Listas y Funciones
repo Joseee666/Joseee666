@@ -1,0 +1,9 @@
+a = ['Azul' , 'Amarillo' , 'Naranja' , 'Hola']
+print (a)
+['Azul', 'Amarillo', 'Naranja', 'Hola']
+print (a[3])
+Hola
+print (a[2])
+Naranja
+print (a[0])
+Azul
